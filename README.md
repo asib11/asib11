@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **asib.bubt@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/jjmrzksghjks](https://www.overleaf.com/read/jjmrzksghjks)
+- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/jjmrzksghjks)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
