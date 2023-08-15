@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.Js**
 
-- 💬 Ask me about **Python, Scrapy, Splash, Selenium, JavaScript, Dom, AJEX, Node.Js, MySQL**
+- 💬 Ask me about **Python, Scrapy,Selenium, JavaScript, Dom, AJEX, Node.Js, MySQL**
 
 - 📫 How to reach me **asib.bubt@gmail.com**
 
