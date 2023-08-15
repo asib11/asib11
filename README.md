@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asib Ahmed</h1>
-<h3 align="center">Junior Software Engineer | Python Developer</h3>
+<h3 align="center">Jr. Full Stack Engineer | Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asib11&label=Profile%20views&color=0e75b6&style=flat" alt="asib11" /> </p>
 
 - 🔭 I’m currently working on [Web Scraping](https://github.com/asib11/pythonLearning/tree/main/scrapy_project)
 
-- 🌱 I’m currently learning **Panda, Django**
+- 🌱 I’m currently learning **React.Js**
 
-- 💬 Ask me about **Python, Scrapy, Splash, Selenium, MySQL**
+- 💬 Ask me about **Python, Scrapy, Splash, Selenium, JavaScript, Dom, AJEX, Node.Js, MySQL**
 
 - 📫 How to reach me **asib.bubt@gmail.com**
 
