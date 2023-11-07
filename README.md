@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asib11&label=Profile%20views&color=0e75b6&style=flat" alt="asib11" /> </p>
 
-- 🔭 I’m currently working on [Web Scraping](https://github.com/asib11/pythonLearning/tree/main/scrapy_project) , [ReactJs]([https://github.com/asib11/pythonLearning/tree/main/scrapy_project](https://github.com/asib11/fresher-react-js-task))
+- 🔭 I’m currently working on [Web Scraping](https://github.com/asib11/pythonLearning/tree/main/scrapy_project) , [ReactJs](https://github.com/asib11/fresher-react-js-task)
 
 - 🌱 I’m currently learning **NodeJs**
 
