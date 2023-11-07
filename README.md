@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Web Scraping](https://github.com/asib11/pythonLearning/tree/main/scrapy_project)
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **Python, Scrapy,Selenium, JavaScript, Dom, AJEX, Node.Js, MySQL**
+- 💬 Ask me about **Python, JavaScript, Scrapy, Selenium, JavaScript, Dom, ReactJs**
 
 - 📫 How to reach me **asib.bubt@gmail.com**
 
