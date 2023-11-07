@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **Python, JavaScript, Scrapy, Selenium, JavaScript, Dom, ReactJs**
+- 💬 Ask me about **Python, Scrapy, Selenium, JavaScript, Dom, ReactJs**
 
 - 📫 How to reach me **asib.bubt@gmail.com**
 
