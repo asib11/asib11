@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Web Scraping](https://github.com/asib11/pythonLearning/tree/main/scrapy_project) , [ReactJs](https://github.com/asib11/fresher-react-js-task)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NextJs NodeJs**
 
 - 💬 Ask me about **Python, Scrapy, Selenium, JavaScript, Dom, ReactJs**
 
@@ -19,6 +19,7 @@
 <a href="https://fb.com/asibahmed11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asibahmed11" height="30" width="40" /></a>
 <a href="https://instagram.com/asib_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asib_11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedasib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedasib1" height="30" width="40" /></a>
+<a href="https://leetcode.com/asib_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asib_11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
