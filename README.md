@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Asib Ahmed</h1>
-<h3 align="center">Junior Software Engineer | Python Developer</h3>
+# Hi 👋, I'm Asib Ahmed
+### Junior Software Engineer | Python Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asib11&label=Profile%20views&color=0e75b6&style=flat" alt="asib11" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=asib11&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on [ReactJs](https://github.com/asib11/dcit-website) , [NodeJs](https://github.com/asib11/car-doctor-server) , [Web Scraping](https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4) 
-
+- 🔭 I’m currently working on [ReactJs](https://github.com/asib11/dcit-website) , [NodeJs](https://github.com/asib11/chat-application)
+- 🎥 Published Video: [Web Scraping](https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4)
 - 🌱 I’m currently learning **VueJs, NestJs**
-
 - 💬 Ask me about **JavaScript, ReactJs, NodeJs, Python, Scrapy, Selenium, MySQL, Mongoose**
-
 - 📫 How to reach me **asib.bubt@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://www.overleaf.com/read/jjmrzksghjks)
 
 <h3 align="left">Connect with me:</h3>
