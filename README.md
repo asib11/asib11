@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asib11&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on [Django]([https://github.com/asib11/](https://github.com/asib11/storefront-django)) , [NodeJs](https://github.com/asib11/chat-application)
+- 🔭 I’m currently working on [Django](https://github.com/asib11/storefront-django) , [NodeJs](https://github.com/asib11/chat-application)
 - 🎥 Published Video: [Web Scraping](https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4)
 - 🌱 I’m currently learning **Go Lang, Kubernets**
 - 💬 Ask me about **JavaScript, ReactJs, NodeJs, Python, Scrapy, Selenium, MySQL, Mongoose**
