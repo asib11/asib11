@@ -1,5 +1,5 @@
 # Hi 👋, I'm Asib Ahmed
-### Software Engineer (Full-Stack) | Python Developer
+### Software Engineer (Full-Stack) | Backend Developer (Python
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asib11&label=Profile%20views&color=0e75b6&style=flat)
 
