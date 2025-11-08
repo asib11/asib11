@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on [Django](https://github.com/asib11/storefront-django) , [NodeJs](https://github.com/asib11/chat-application)
 - 🎥 Published Video: [Web Scraping](https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4)
 - 🌱 I’m currently learning **Go Lang, Kubernets**
-- 💬 Ask me about **JavaScript, ReactJs, NodeJs, Python, Scrapy, Selenium, MySQL, Mongoose**
+- 💬 Ask me about **JavaScript, ReactJs, NodeJs, Python, DRF, MySQL, Docker, Redis**
 - 📫 How to reach me **asib.bubt@gmail.com**
-- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/jjmrzksghjks)
+- 📄 Know about my experiences [**Resume**](https://www.overleaf.com/read/kfbckjbpdbqf#b15785)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
