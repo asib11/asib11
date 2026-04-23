@@ -12,18 +12,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React.js
 
-
 - 🎥 Published Video: <a href="https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4">Web Scraping</a>
 
-
 🌱 I’m currently learning <br><br>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18"/> Go &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="18"/> Kubernetes
 
-
 - 💬 Ask me about 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React.js &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js &nbsp;
@@ -93,6 +88,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
 </a>&nbsp;&nbsp;
 
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/>
+</a>&nbsp;&nbsp;
+
 <a href="https://www.mysql.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </a>&nbsp;&nbsp;
@@ -100,6 +99,10 @@
 <a href="https://www.mongodb.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </a>&nbsp;&nbsp;
+
+<a href="https://redis.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://tailwindcss.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
@@ -132,10 +135,6 @@
 <a href="https://isocpp.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </a>&nbsp;&nbsp;
-
-<a href="https://www.selenium.dev">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40"/>
-</a>
 
 </p>
 
