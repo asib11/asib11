@@ -16,23 +16,23 @@
 
 <a href="https://linkedin.com/in/asib" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://wa.me/+8801753249719" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30"/>
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://fb.com/asibahmed11" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/>
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://instagram.com/asib_11" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/ahmedasib1" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30"/>
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://leetcode.com/asib_11" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
@@ -46,63 +46,63 @@
 
 <a href="https://react.dev/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://nextjs.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://expressjs.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.djangoproject.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.docker.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.mongodb.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://tailwindcss.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://getbootstrap.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://go.dev/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" style="margin-right: 10px;"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.typescriptlang.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://isocpp.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.selenium.dev">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40"/>
