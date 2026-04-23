@@ -13,7 +13,7 @@
 
 - 🎥 Published Video: <a href="https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4">Web Scraping</a>
 
-🌱 I’m currently learning: 
+- 🌱 I’m currently learning: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18"/> Go &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="18"/> Kubernetes
 
