@@ -15,27 +15,27 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/asib" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" style="margin-right: 20px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/+8801753249719" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30" style="margin-right: 20px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://fb.com/asibahmed11" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" style="margin-right: 20px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/asib_11" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" style="margin-right: 20px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/ahmedasib1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" style="margin-right: 20px;" />
-</a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/asib_11" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
 </a>
 
 </p>
