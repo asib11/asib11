@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="18"/> Django &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React.js
 
 - 🎥 Published Video: <a href="https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4">Web Scraping</a>
