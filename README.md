@@ -3,12 +3,31 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asib11&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on [Django](https://github.com/asib11/storefront-django) , [NodeJs](https://github.com/asib11/chat-application)
+- 🔭 I’m currently working on  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="18"/> Django,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React.js
+
 - 🎥 Published Video: [Web Scraping](https://youtu.be/kjx_8jE6jJc?si=6404ItkXDkFSsed4)
-- 🌱 I’m currently learning **Go Lang, Kubernets**
-- 💬 Ask me about **JavaScript, ReactJs, NodeJs, Python, DRF, MySQL, Docker, Redis**
-- 📫 How to reach me **asib.bubt@gmail.com**
-- 📄 Know about my experiences [**Resume**](https://www.overleaf.com/read/kfbckjbpdbqf#b15785)
+
+- 🌱 I’m currently learning  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="18"/> Go,  
+  Kubernetes
+
+- 💬 Ask me about  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React.js,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/> Python,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="18"/> DRF,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18"/> MySQL,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18"/> Docker,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="18"/> Redis
+
+- 📫 How to reach me: **asib.bubt@gmail.com**
+
+- 📄 Know about my experiences: [**Resume**](https://www.overleaf.com/read/kfbckjbpdbqf#b15785)
 
 <h3 align="left">Connect with me:</h3>
 
