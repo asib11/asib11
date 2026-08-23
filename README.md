@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="asib11's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hi 👋, I'm Asib Ahmed
 ### Software Engineer (Full-Stack) | Backend Developer (Python)
 
